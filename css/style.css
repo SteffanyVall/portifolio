@@ -1,31 +1,69 @@
 h1 {
-    
+    color: #26355E;
+}
+
+a {
+    color: black;
+    font-family: monospace;
+     font-size : 20px ;
 }
 
 h2 {
-    
+    color: #69263A;
 }
 
-body{
-    
-}
-
-ol {
-    
-}
-
-table {
-    
-}
+.img {
+ position: fixed;
+ left: 50%;
+ top: 50%;
+ opacity: 0.3;
+ z-index: -1;
+} 
 
 img {
     
 }
 
+html {
+   
+}
+
+body{
+   color: black;
+   font-family: monospace;
+   background-image: linear-gradient( to left, #7F7FD5, #86A8E7, #91EAE4);
+}
+
+ol {
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+b {
+    color: black;
+    font-family: sans-serif;
+}
+
+p {
+    color: #f64f59;
+}
+
+table {
+    border: 1px solid #69263A;
+}
+
+table td {
+    border: 1px solid #69263A;
+}
+
 #caixa1 {
     height: auto;
-    width: auto;
+    width: 550px;
     border: 2px solid  #AC4FC6;
     border-radius: 20px;
     margin: 5px;
 }
+

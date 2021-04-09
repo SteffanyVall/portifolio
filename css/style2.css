@@ -1,0 +1,48 @@
+h1 {
+    color: #26355E;
+}
+
+a {
+    color: black;
+    font-family: monospace;
+     font-size : 20px ;
+}
+
+h2 {
+    color: #69263A;
+}
+
+body{
+   color: black;
+   font-family: monospace;
+   background-image: linear-gradient( to left, #77A1D3, #fff, #79CBCA);
+}
+
+ol {
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+b {
+    color: black;
+    font-family: sans-serif;
+}
+
+p {
+    color: #f64f59;
+}
+
+table td {
+    width: 500px;
+    height: 80px;
+    border: 2px solid #69263A;
+}
+
+table th {
+    width: 500px;
+    height: 80px;
+    border: 2px solid #69263A;
+}
