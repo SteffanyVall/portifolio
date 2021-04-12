@@ -5,7 +5,7 @@ h1 {
 a {
     color: black;
     font-family: monospace;
-     font-size : 20px ;
+    font-size: 17px;
 }
 
 h2 {
@@ -31,7 +31,7 @@ html {
 body{
    color: black;
    font-family: monospace;
-   background-image: linear-gradient( to left, #C9D6FF, #ACB6E5);
+   background-image: linear-gradient( to left, #fffcdc, #d9a7c7);
 }
 
 ol {
@@ -48,7 +48,7 @@ b {
 }
 
 p {
-    color: #f64f59;
+    
 }
 
 table {
