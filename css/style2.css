@@ -33,6 +33,22 @@ b {
 
 p {
     color: #f64f59;
+} 
+
+table {
+    border: 1px solid #69263A;
+}
+
+table td {
+    border: 1px solid #69263A;
+}
+
+#caixa1 {
+    height: auto;
+    width: 550px;
+    border: 2px solid  #AC4FC6;
+    border-radius: 20px;
+    margin: 5px;
 }
 
 table td {

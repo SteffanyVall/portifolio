@@ -28,8 +28,8 @@ html {
 
 body{
    color: black;
-   font-family: monospace;
-   background-image: linear-gradient( to left, #ff9966, #e1eec3);
+   font-family: Times;
+   background-image: linear-gradient( to left, #F5DEB3, #FFC0CB);
 }
 
 ol {
@@ -42,7 +42,7 @@ li {
 
 b {
     color: black;
-    font-family: sans-serif;
+    font-family: Times;
 }
 
 p {
@@ -64,4 +64,6 @@ table td {
     border-radius: 20px;
     margin: 5px;
 }
-
+b {
+    color: red;
+}

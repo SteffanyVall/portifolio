@@ -4,7 +4,7 @@ h1 {
 
 a {
     color: black;
-    font-family: monospace;
+    font-family: Times;
      font-size : 20px ;
 }
 
@@ -31,8 +31,7 @@ html {
 body{
    color: black;
    font-family: monospace;
-   background-image: linear-gradient( to left, #C9D6FF, #ACB6E5);
-}
+    background-image: linear-gradient( to left, #C9D6FF, #DDA0DD);}
 
 ol {
     color: black;
@@ -48,15 +47,15 @@ b {
 }
 
 p {
-    color: #f64f59;
+    color: #8B008B;
 }
 
 table {
-    border: 1px solid #69263A;
+    border: 1px solid #4169E1;
 }
 
 table td {
-    border: 1px solid #69263A;
+    border: 1px solid #4169E1;
 }
 
 #caixa1 {
